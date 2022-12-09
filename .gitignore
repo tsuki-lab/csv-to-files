@@ -1,0 +1,4 @@
+index.csv
+dist/*
+!dist/.gitkeep
+node_modules

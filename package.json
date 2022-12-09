@@ -1,0 +1,16 @@
+{
+  "name": "csv-to-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "debDependencies": {
+    "csvtojson": "^2.0.10",
+    "make-dir": "^3.1.0"
+  }
+}
